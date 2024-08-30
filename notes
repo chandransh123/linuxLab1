@@ -1,0 +1,3 @@
+Soft Link: Use ln -s in the shell or symlink() in C.
+Hard Link: Use ln in the shell or link() in C.
+FIFO: Use mkfifo in the shell or mkfifo() in C.
